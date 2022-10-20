@@ -49,3 +49,10 @@
 - masque sous-réseau :255.248.0.0
 - nombre de client possible : 524 286
 - plage des clients possibles : 172.24.0.1 à 172.21.255.254
+
+
+### date du tp : 19/10/2022
+
+### fait pedant la séance : faire le tp 
+
+### a faire pendant la séance prochaine : faire le projet personnels
