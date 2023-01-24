@@ -24,6 +24,28 @@ Description du projet : création d'un serveur cs:go
 - installation des maps
 - modification des paramètres pour rendre le serveur plus agréable
 
-### **A faire pendant la séance prochaine :avancement du projet personnel sur la création d'un serveur cs:go**
+### **A faire pendant la séance prochaine : activer les mods**
 
 ---
+
+### Date de la  séance : 04/01/2023
+
+### **Fait pendant la séance : avancement du projet personnel sur la création d'un serveur cs:go**
+
+- installation des mods
+- mise en place des règles du serveur
+- mise en place du vac
+
+### **A faire pendant la séance prochaine : faire le motd**
+
+---
+
+### Date de la  séance : 18/01/2023
+
+### **Fait pendant la séance : avancement du projet personnel sur la création d'un serveur cs:go**
+
+- creation du motd
+- mise en place du motd
+- fichier de mise a jour en .bat
+
+
